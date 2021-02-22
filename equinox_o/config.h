@@ -68,6 +68,7 @@
 #define RGB_DI_PIN B7 // pin the DI on the ws2812 is hooked-up to
 #define RGBLIGHT_ANIMATIONS // run RGB animations
 #define RGBLED_NUM 47 // number of LEDs
+#define RGBLIGHT_LIMIT_VAL 230 // Limit LED brightness
 #define RGBLIGHT_HUE_STEP 12 // units to step when in/decreasing hue
 #define RGBLIGHT_SAT_STEP 12 // units to step when in/decresing saturation
 #define RGBLIGHT_VAL_STEP 12 // units to step when in/decreasing value (brightness)
