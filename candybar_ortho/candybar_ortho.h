@@ -20,7 +20,7 @@
 
 #define XXX KC_NO
 
-#define LAYOUT_ortho_4x17( \
+#define LAYOUT_grid( \
   k00, k10, k01, k11, k02, k12, k03, k13, k04, k14, k05, k15, k06, k16, k07, k17, k08, \
   k20, k30, k21, k31, k22, k32, k23, k33, k24, k34, k25, k35, k26, k36, k27, k37, k28, \
   k40, k50, k41, k51, k42, k52, k43, k53, k44, k54, k45, k55, k46, k56, k47, k57, k48, \
@@ -35,7 +35,7 @@
   { k60, k61, k62, k63, k64, k65, k66, k67 }, \
   { k70, k71, k72, k73, k74, k75, k76, k77, k68 } \
 }
-#define LAYOUT_ortho_2x3u( \
+#define LAYOUT_2x3u( \
   k00, k10, k01, k11, k02, k12, k03, k13, k04, k14, k05, k15, k06, k16, k07, k17, k08, \
   k20, k30, k21, k31, k22, k32, k23, k33, k24, k34, k25, k35, k26, k36, k27, k37, k28, \
   k40, k50, k41, k51, k42, k52, k43, k53, k44, k54, k45, k55, k46, k56, k47, k57, k48, \
@@ -50,7 +50,7 @@
   { k60, k61, XXX, XXX, k64, XXX, XXX, k67 }, \
   { k70, k71, k72, k73, k74, k75, k76, k77, k68 } \
 }
-#define LAYOUT_ortho_7u( \
+#define LAYOUT_7u( \
   k00, k10, k01, k11, k02, k12, k03, k13, k04, k14, k05, k15, k06, k16, k07, k17, k08, \
   k20, k30, k21, k31, k22, k32, k23, k33, k24, k34, k25, k35, k26, k36, k27, k37, k28, \
   k40, k50, k41, k51, k42, k52, k43, k53, k44, k54, k45, k55, k46, k56, k47, k57, k48, \
