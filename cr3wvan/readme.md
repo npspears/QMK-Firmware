@@ -1,6 +1,6 @@
 # CR3WVAN
 
-![CR3WVAN](https://i.imgur.com/4TI6BA0h.png)
+![CR3WVAN](https://i.imgur.com/OmW445H.png)
 
 CR3WVAN is a 12.75u PCB that is feature rich. It includes: hotswap, per-key RGB, RGB underglow, 3 rotary encoder positions and a unique layout not yet seen on a 12.75u PCB.
 
